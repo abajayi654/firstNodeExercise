@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "First Node Exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abajayi654/firstNodeExercise.git"
+  },
+  "author": "Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abajayi654/firstNodeExercise/issues"
+  },
+  "homepage": "https://github.com/abajayi654/firstNodeExercise#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
